@@ -1,0 +1,7 @@
+num = [1, 2, 3, 2, 4, 1, 5, 3, 6]
+
+unique_nums = set(num)
+
+print("Original Lists:", num)
+
+print("After removing Duplicates:", unique_nums)

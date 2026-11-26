@@ -13,4 +13,3 @@ if number<=0:
 else:
     result = factorial(number)
     print("Factorial = ", result)
-    
